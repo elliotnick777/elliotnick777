@@ -20,7 +20,7 @@ Plaintext
 ║  > CLASS: Solo Security Researcher & Developer                              ║
 ║                                                                             ║
 ║  [ CORE_SKILLS & CTF_FIELDS ]                                               ║
-║   ├── 🎯 Web Security & Exploitation (XSS, IDOR, SQLi)                       ║
+║   ├── 🎯 Web Security & Exploitation                                        ║
 ║   ├── 🧩 Steganography & Spectrogram Analysis                               ║
 ║   ├── 📜 Audio Signal Processing & Frequency Analysis                       ║
 ║   ├── 🔍 OSINT & Reconnaissance                                             ║
@@ -35,9 +35,6 @@ Plaintext
 ⚔️ // ACTIVE_OPERATIONS
 Ordo Albus CTF Ops
 
-Индивидуальное участие в турнирах по кибербезопасности, решение Web, Stego и OSINT тасков.
-
-🛠 Инструментарий: Burp Suite • Wireshark • Spectrogram Solvers • Python • JS
 
 📊 // SYSTEM_METRICS
 Plaintext
