@@ -40,7 +40,10 @@
 ║                                                                             ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/okosnis.png)](https://tryhackme.com/p/okosnis)
 
+<img src="[https://github-readme-stats.vercel.app/api?username=elliotnick777&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=elliotnick777&show_icons=true&theme=tokyonight&hide_border=true)" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=elliotnick777&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotnick777&layout=compact&theme=tokyonight&hide_border=true)" />
 <div align="center">
 
 `[ END OF TRANSMISSION — ORDO ALBUS OVER AND OUT ]`
