@@ -16,7 +16,7 @@
 [ System Status: Active ] • [ Target: CTFtime Top Rankings ] • [ Clearance: Level 5 ]
 
 <!-- ИКОНКИ СТЕКА -->
-<img src="https://skillicons.dev/icons?i=python,js,godot,linux,cpp,bash,vscode,git,wireshark,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,godot,linux&theme=dark" />
 
 <br><br>
 
@@ -50,10 +50,7 @@
 ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
-## ⚔️ // ACTIVE_OPERATIONS
 
-**[Ordo Albus CTF Ops](ссылка-на-твой-репо)**
-Core repository for CTF automation scripts, web fuzzers, and challenge writeups.
 
 ## 📊 // SYSTEM_METRICS
 
