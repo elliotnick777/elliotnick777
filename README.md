@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ГОТИЧЕСКИЙ ASCII БАННЕР -->
-
 ```text
  ██████╗ ██████╗ ██████╗ ██████╗     ██████╗ ██╗     ██████╗ ██╗   ██╗███████╗
 ██╔═══██╗██╔══██╗██╔══██╗██╔═══██╗   ██╔══██╗██║     ██╔══██╗██║   ██║██╔════╝
@@ -15,14 +13,7 @@
 
 [ System Status: Active ] • [ Target: CTFtime Top Rankings ] • [ Clearance: Level 5 ]
 
-<!-- ИКОНКИ СТЕКА -->
 <img src="https://skillicons.dev/icons?i=python,js,godot,linux&theme=dark" />
-
-<br><br>
-
-<!-- ПРОФИЛЬНАЯ СТАТИСТИКА (обновляется автоматически) -->
-<img src="https://github-readme-stats.vercel.app/api?username=elliotnick777&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elliotnick777&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
@@ -49,14 +40,6 @@
 ║                                                                             ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
-
-
-
-## 📊 // SYSTEM_METRICS
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elliotnick777&theme=react-dark&hide_border=true" />
-</div>
 
 <div align="center">
 
