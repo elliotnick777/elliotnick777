@@ -8,7 +8,7 @@
 ╚██████╔╝██║  ██║██████╔╝╚██████╔╝   ██║  ██║███████╗██████╔╝╚██████╔╝███████║
  ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝    ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝
 ```
-
+Offensive Security Engineer
 ⚔️ CTF Team: Ordo Albus | Solo Operator ⚔️
 
 [ System Status: Active ] • [ Target: CTFtime Top Rankings ] • [ Clearance: Level 5 ]
