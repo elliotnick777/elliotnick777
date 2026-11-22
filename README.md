@@ -14,8 +14,7 @@
 <p align="center"><code>Cybersecurity / Pentesting</code></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,c,linux,docker&theme=dark" alt="Python, Bash, C, Linux, Docker">
-  <img src="https://img.shields.io/badge/ASM-Assembly-242938?style=for-the-badge" alt="Assembly">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,bash,c,linux,docker,assembly&amp;theme=dark" alt="Python, Bash, C, Linux, Docker, Assembly">
 </p>
 
 <p align="center">
