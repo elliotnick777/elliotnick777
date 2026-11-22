@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <strong>Also working with:</strong> Burp Suite · Ghidra · Wireshark · Nmap · SQL · VirtualBox · PortSwigger Labs
+  <strong>Also working with:</strong> Burp Suite · Ghidra · Wireshark · Nmap · SQL · Metasploit · Nuclei
 </p>
 
 ---
