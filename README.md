@@ -1,4 +1,10 @@
-<h1 align="center">LEUCIUS</h1>
+```text
+#      #####  #   #   ####  #####  #   #   ####
+#      #      #   #  #        #    #   #  #
+#      ####   #   #  #        #    #   #   ###
+#      #      #   #  #        #    #   #      #
+#####  #####   ###    ####  #####   ###   ####
+```
 
 <p align="center">
   <strong>Pentesting · Web Security · Cryptography · Reverse Engineering · Linux</strong>
@@ -11,7 +17,7 @@
 </p>
 
 <p align="center">
-  <strong>Also working with:</strong> Linux, Bash, Python, C, SQL, Web Security, CTF
+  <strong>Also working with:</strong> Burp Suite · Wireshark · Ghidra · Nmap · SQL
 </p>
 
 ---
