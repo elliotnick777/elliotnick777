@@ -14,7 +14,7 @@
 <p align="center"><code>Cybersecurity / Pentesting</code></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,c,linux,kali,docker,git&theme=dark" alt="Python, Bash, C, Linux, Kali Linux, Docker, Git">
+  <img src="https://skillicons.dev/icons?i=py,bash,c,linux,asm,docker,&theme=dark" alt="Python, Bash, C, Linux, Kali Linux, Docker, Git">
 </p>
 
 <p align="center">
