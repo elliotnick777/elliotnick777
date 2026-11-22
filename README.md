@@ -1,9 +1,10 @@
 ```text
-#      #####  #   #   ####  #####  #   #   ####
-#      #      #   #  #        #    #   #  #
-#      ####   #   #  #        #    #   #   ###
-#      #      #   #  #        #    #   #      #
-#####  #####   ###    ####  #####   ###   ####
+██╗     ███████╗██╗   ██╗ ██████╗██╗██╗   ██╗███████╗
+██║     ██╔════╝██║   ██║██╔════╝██║██║   ██║██╔════╝
+██║     █████╗  ██║   ██║██║     ██║██║   ██║███████╗
+██║     ██╔══╝  ██║   ██║██║     ██║██║   ██║╚════██║
+███████╗███████╗╚██████╔╝╚██████╗██║╚██████╔╝███████║
+╚══════╝╚══════╝ ╚═════╝  ╚═════╝╚═╝ ╚═════╝ ╚══════╝
 ```
 
 <p align="center">
@@ -17,7 +18,7 @@
 </p>
 
 <p align="center">
-  <strong>Also working with:</strong> Burp Suite · Wireshark · Ghidra · Nmap · SQL
+  <strong>Also working with:</strong> Burp Suite · Ghidra · Wireshark · Nmap · SQL · VirtualBox · PortSwigger Labs
 </p>
 
 ---
@@ -30,7 +31,7 @@ Cybersecurity student focused on offensive security.
 Areas:
   - Web Application Security & Recon
   - Cryptography & Reverse Engineering
-  - Linux Administration & Scripting (Bash, Python)
+  - Linux Administration & Scripting
   - C & Low-Level Fundamentals
   - CTF Competitions
 ```
