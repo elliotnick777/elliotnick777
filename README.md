@@ -37,7 +37,7 @@ Areas:
 ```
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/f72Z397FfHAAAAAd/griffith-berserk.gif" width="500" alt="Griffith">
+  <img src="https://media1.tenor.com/m/f72Z397FfHAAAAAd/griffith-berserk.gif" width="700" alt="Griffith">
 </p>
 
 
