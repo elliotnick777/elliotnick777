@@ -37,7 +37,7 @@ Areas:
 ```
 
 <p align="center">
-  <img src="./griffith.gif" width="80%" alt="Griffith">
+  <img src="./griffith.webp" width="80%" alt="Griffith">
 </p>
 
 
