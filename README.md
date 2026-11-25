@@ -37,7 +37,7 @@ Areas:
 ```
 
 <p align="center">
-  <img src="./griffith-fixed.webp" width="80%" alt="Griffith">
+  <img src="./griffith-ai-github.webp" width="80%" alt="Griffith">
 </p>
 
 
