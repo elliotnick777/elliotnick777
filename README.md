@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <strong>Also working with:</strong> Burp Suite · Ghidra · Wireshark · Nmap · SQL · Metasploit · Nuclei
+  <strong>Also working with:</strong> Burp Suite · Ghidra · Wireshark · Metasploit · Nuclei
 </p>
 
 ---
@@ -35,3 +35,10 @@ Areas:
   - C & Low-Level Fundamentals
   - CTF Competitions
 ```
+「 Leucius 」
+
+There is something beyond human understanding,
+to which my soul remains faithful,
+without even knowing its true name.
+
+                                           ▼
