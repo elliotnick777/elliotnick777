@@ -35,6 +35,14 @@ Areas:
   - C & Low-Level Fundamentals
   - CTF Competitions
 ```
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/f72Z397FfHAAAAAd/griffith-berserk.gif" width="350" alt="Griffith">
+</p>
+
+
+
+
 > **Leucius**
 >
 > There is something beyond human understanding,  
