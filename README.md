@@ -42,7 +42,7 @@ Areas:
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/w4Kyn2TnFn0AAAAd/griffith-berserk.gif" width="700" alt="Griffith">
+  <img src="./griffith-scene-ai.webp" width="80%" alt="Griffith">
 </p>
 
 
